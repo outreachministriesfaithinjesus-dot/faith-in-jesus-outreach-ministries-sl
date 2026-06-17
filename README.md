@@ -1,22 +1,6 @@
 # faith-in-jesus-outreach-ministries-sl
 Official website repository for Faith in Jesus Outreach Ministries Sierra Leone. A Christ-centered ministry dedicated to preaching the Gospel, building faith, transforming lives, and reaching communities through worship, prayer, discipleship, evangelism, and outreach. Motto: "Without Faith It Is Impossible to Please God" (Hebrews 11:6).
 faith-in-jesus-outreach-ministries-sl/
-│
-├── index.html
-├── style.css
-├── script.js
-├── church-logo.jpg
-│
-├── about.html
-├── pastor.html
-├── ministries.html
-├── sermons.html
-├── events.html
-├── gallery.html
-├── prayer-request.html
-├── contact.html
-│
-└── README.md
 # Faith in Jesus Outreach Ministries Sierra Leone
 
 Official website of Faith in Jesus Outreach Ministries Sierra Leone.
