@@ -339,6 +339,9 @@ color:white;
 padding:40px;
 }
 Faith • Hope • Love • Outreach
-
+ theme: jekyll-theme-cayman
+title: Church Website
+description: Welcome to our church
+theme: jekyll-theme-cayman
 </section>
 Building Faith, Transforming Lives, Reaching Nations
