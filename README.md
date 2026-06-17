@@ -264,7 +264,6 @@ Upload church event photos here.
 <section>
 
 <h1>Prayer Request</h1>
-
 <form>
 
 <input type="text" placeholder="Your Name">
@@ -302,5 +301,44 @@ Phone: Coming Soon
 <p>
 Email: Coming Soon
 </p>
-</section>
+Primary Sky Blue: #4DA6FF
+Light Sky Blue: #87CEEB
+Pure White: #FFFFFF
+Deep Blue Accent: #0B3D91
+Silver Gray: #F5F7FA
+header{
+background:#FFFFFF;
+border-bottom:3px solid #4DA6FF;
+}
+nav a{
+color:#0B3D91;
+font-weight:600;
+}
 
+nav a:hover{
+color:#4DA6FF;
+}
+nav a{
+color:#0B3D91;
+font-weight:600;
+}
+
+nav a:hover{
+color:#4DA6FF;
+}
+Our work is worship.
+Every greeting, every setup,
+every prayer, and every follow-up
+matters because people matter to God.
+
+"Without Faith It Is Impossible to Please God"
+Hebrews 11:6
+footer{
+background:#0B3D91;
+color:white;
+padding:40px;
+}
+Faith • Hope • Love • Outreach
+
+</section>
+Building Faith, Transforming Lives, Reaching Nations
